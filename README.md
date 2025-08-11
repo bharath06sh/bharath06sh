@@ -15,7 +15,9 @@
 ## 🌟 About Me  
 
 - 🎓 **B.E. CSE (AI & ML)** — M.Kumarasamy College of Engineering (2023–2027), CGPA: **7.5**  
-- 💼 **Deloitte Data Analysis Simulation** — Forage  
+- 💼 **Current:** Research & Analyst Intern @ **Bigbull**  
+- 💼 **Completed:** Full Stack Developer Intern @ **Growhigh**  
+- 💼 **Completed:** Deloitte Data Analysis Simulation — Forage  
 - 🛠 **Skills:** Python, Machine Learning, Full Stack, Excel, Tableau  
 - 📫 **Email:** `bharath0606shi@gmail.com` | 📱 **Phone:** `+91 8110968290`  
 
