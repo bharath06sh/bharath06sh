@@ -36,7 +36,7 @@
 
 ### 💻 Languages  
 <p>
-python
+python\n
 SQL
 
 </p>
