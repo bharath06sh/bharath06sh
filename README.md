@@ -36,9 +36,9 @@
 
 ### 💻 Languages  
 <p>
-<img src="https://img.icons8.com/color/48/python.png" height="40"/> 
-<img src="https://img.icons8.com/color/48/html-5.png" height="40"/> 
-<img src="https://img.icons8.com/color/48/javascript.png" height="40"/> 
+python
+SQL
+
 </p>
 
 ### 🧠 Libraries & Frameworks  
