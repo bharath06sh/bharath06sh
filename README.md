@@ -36,23 +36,27 @@
 
 ### 💻 Languages  
 <p>
-python\n
-SQL
+1.python
+2.SQL
+3.Java
+4.HTML
+
 
 </p>
 
 ### 🧠 Libraries & Frameworks  
 <p>
-<img src="https://img.icons8.com/color/48/numpy.png" height="40"/> 
-<img src="https://img.icons8.com/color/48/pandas.png" height="40"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/128px-Matplotlib_icon.svg.png" height="40"/> 
+1.pandas
+2.Numpy
+3.Matplotlib
+4.ScikitLearn
+
+
 </p>
 
 ### 🛠 Tools & Platforms  
 <p>
-<img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" height="40"/> 
-<img src="https://img.icons8.com/color/48/tableau-software.png" height="40"/> 
-<img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" height="40"/> 
+1. 
 </p>
 
 ---
