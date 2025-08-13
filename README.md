@@ -26,8 +26,8 @@
 ##  Connect with Me  
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-BharathkumarP-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-bharath0606-333?style=for-the-badge&logo=github" /></a>
+  <a href="https://www.linkedin.com/in/bharath-kumar-333bb2379"><img src="https://img.shields.io/badge/LinkedIn-BharathkumarP-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/bharath0606"><img src="https://img.shields.io/badge/GitHub-bharath0606-333?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
@@ -36,31 +36,27 @@
 
 ###  Languages  
 <p>
-1.python
-2.SQL
-3.Java
-4.HTML
-
-
+1. Python  
+2. SQL  
+3. Java  
+4. HTML  
 </p>
 
 ###  Libraries & Frameworks  
 <p>
-1.pandas
-2.Numpy
-3.Matplotlib
-4.ScikitLearn
-
-
+1. pandas  
+2. NumPy  
+3. Matplotlib  
+4. Scikit-learn  
 </p>
 
 ###  Tools & Platforms  
 <p>
-1. Vs code
-2. Tableau
-3. Power BI
-4. Excel
-5. Android Studio
+1. VS Code  
+2. Tableau  
+3. Power BI  
+4. Excel  
+5. Android Studio  
 </p>
 
 ---
