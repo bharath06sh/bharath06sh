@@ -14,16 +14,16 @@
 
 ## 🌟 About Me  
 
-- 🎓 **B.E. CSE (AI & ML)** — M.Kumarasamy College of Engineering (2023–2027), CGPA: **7.5**  
-- 💼 **Current:** Research & Analyst Intern @ **Bigbull**  
-- 💼 **Completed:** Full Stack Developer Intern @ **Growhigh**  
-- 💼 **Completed:** Deloitte Data Analysis Simulation — Forage  
-- 🛠 **Skills:** Python, Machine Learning, Full Stack, Excel, Tableau  
-- 📫 **Email:** `bharath0606shi@gmail.com` | 📱 **Phone:** `+91 8110968290`  
+-  **B.E. CSE (AI & ML)** — M.Kumarasamy College of Engineering (2023–2027), CGPA: **7.5**  
+-  **Current:** Research & Analyst Intern @ **Bigbull**  
+-  **Completed:** Full Stack Developer Intern @ **Growhigh**  
+-  **Completed:** Deloitte Data Analysis Simulation — Forage  
+-  **Skills:** Python, Machine Learning, Full Stack, Excel, Tableau  
+-  **Email:** `bharath0606shi@gmail.com` | 📱 **Phone:** `+91 8110968290`  
 
 ---
 
-## 🔗 Connect with Me  
+##  Connect with Me  
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-BharathkumarP-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -32,9 +32,9 @@
 
 ---
 
-## 🛠 Tech Stack  
+##  Tech Stack  
 
-### 💻 Languages  
+###  Languages  
 <p>
 1.python
 2.SQL
@@ -44,7 +44,7 @@
 
 </p>
 
-### 🧠 Libraries & Frameworks  
+###  Libraries & Frameworks  
 <p>
 1.pandas
 2.Numpy
@@ -54,9 +54,13 @@
 
 </p>
 
-### 🛠 Tools & Platforms  
+###  Tools & Platforms  
 <p>
-1. 
+1. Vs code
+2. Tableau
+3. Power BI
+4. Excel
+5. Android Studio
 </p>
 
 ---
